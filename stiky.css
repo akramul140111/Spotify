@@ -1,0 +1,17 @@
+.sticky-nav{
+    position:sticky;
+    top:0;
+    background-color: #2abc13;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+.sticky-nav-icons{
+    margin-left: .75rem;
+}
+.sticky-nav-items{
+    display: flex;
+    justify-content: ceter;
+    align-items: center;
+}
